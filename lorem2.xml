@@ -5,7 +5,7 @@
 			<AdSystem><![CDATA[AdRiver]]></AdSystem>
 			<AdTitle><![CDATA[743903>]]></AdTitle>
 			<Impression id="AdRiver"><![CDATA[
-				 https://ads.tricolor.tv/cgi-bin/xmerle.cgi?extid=48eaa39cf048030390d68e42ea30ebbc9666cd8ab726b226a37260bedeaa6459&amp;bt=61&amp;mc=2&amp;sz=web&amp;tuid=-1&amp;custom=8=0;1=CinemaBanner;2=ANDROID;3=26112020-0000-0000-0000-000068720000;4=default;5=tablet;6=tmp_f7aa8e174839418c42f7b7f44b239cfe;7=6
+				 https://ads.tricolor.tv/cgi-bin/event.cgi?xpid=Dk8OumHLXXxkqoLzGmfoFCxl2varT-ASlZnutKcmfI9b0Pqj2gwUQM7b6VX86kSn4AZTA75GQ2CGYjZDAQ7ju0TKjWEHWW3OAZSrcAsA&sid=221156&sliceid=2698793&bn=1&pz=0&sz=web&ad=770713&bid=9528420&bt=61&tuid=-1&type=25&custom=172=
 			]]></Impression>
 			<Impression id="ThirdParty"><![CDATA[
 				 
@@ -72,7 +72,7 @@
 						</TrackingEvents>
 						<VideoClicks>
 							<ClickThrough><![CDATA[
-								 https://ads.tricolor.tv/cgi-bin/xmerle.cgi?extid=48eaa39cf048030390d68e42ea30ebbc9666cd8ab726b226a37260bedeaa6459&amp;bt=61&amp;mc=2&amp;sz=web&amp;tuid=-1&amp;custom=8=0;1=CinemaBanner;2=ANDROID;3=26112020-0000-0000-0000-000068720000;4=default;5=tablet;6=tmp_f7aa8e174839418c42f7b7f44b239cfe;7=6
+								 https://ads.tricolor.tv/cgi-bin/event.cgi?xpid=Dk8OumHLXXxkqoLzGmfoFCxl2varT-ASlZnutKcmfI9b0Pqj2gwUQM7b6VX86kSn4AZTA75GQ2CGYjZDAQ7ju0TKjWEHWW3OAZSrcAsA&sid=221156&sliceid=2698793&bn=1&pz=0&sz=web&ad=770713&bid=9528420&bt=61&tuid=-1&type=25&custom=172=
 							]]></ClickThrough>
 						</VideoClicks>
 						<MediaFiles>
@@ -98,7 +98,7 @@
 			<Advertiser><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis efficitur faucibus. Sed dolor ex, faucibus quis ornare in, convallis ac lacus. Morbi a tincidunt orci, sed hendrerit arcu. Aliquam scelerisque est in velit dignissim, ac laoreet enim eleifend. Mauris mattis vestibulum metus at vulputate. Sed urna nibh, finibus et tellus nec, commodo vulputate nisi. Donec et porttitor nisi. Morbi maximus condimentum orci eu iaculis. Aliquam suscipit urna dignissim diam rhoncus posuere. Suspendisse ullamcorper gravida egestas. Токен: LdtCK9j69]]></Advertiser>
 			<Survey></Survey>
 			<Error><![CDATA[
-				 https://ads-test.tricolor.tv/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=25&custom=172=[ERRORCODE] 
+				 https://ads.tricolor.tv/cgi-bin/event.cgi?xpid=Dk8OumHLXXxkqoLzGmfoFCxl2varT-ASlZnutKcmfI9b0Pqj2gwUQM7b6VX86kSn4AZTA75GQ2CGYjZDAQ7ju0TKjWEHWW3OAZSrcAsA&sid=221156&sliceid=2698793&bn=1&pz=0&sz=web&ad=770713&bid=9528420&bt=61&tuid=-1&type=25&custom=172=[ERRORCODE] 
 			]]></Error>
 		</InLine>
 	</Ad>
