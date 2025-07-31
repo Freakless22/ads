@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="3.0">
+	<Ad id="2921689-8483160">
+		<InLine>
+			<AdSystem>ADFOX</AdSystem>
+			<AdTitle>Advertising</AdTitle>
+			<Description></Description>
+			<Survey>ADFOX</Survey>
+			<Error><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=21c7ad3bc37e17db&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=u&pr=a&rand=mhdnndc&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Error>
+			<Impression id="imp"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=9c267c2a71cc0e8d&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=d&pr=a&rand=fogaqeu&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Impression>
+			<Creatives>
+				<Creative id="8483160">
+					<Linear skipoffset="00:00:05">
+						<Duration>00:00:05.000</Duration>
+						<TrackingEvents>
+							<Tracking event="creativeView"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=3ffa66a959d78292&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=c&pr=a&rand=hokvyam&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="start"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=44ff68c5d42a0f31&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=b&pr=a&rand=krfchal&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>   
+							<Tracking event="firstQuartile"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=fb606c48edcb1c01&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=e&pr=a&rand=nsmtuzp&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=2a65761a9ef072a9&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=f&pr=a&rand=ctonxvb&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=4e06b9e031d813e0&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=g&pr=a&rand=jvnsjyw&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="complete"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=2b37a77c69263ea7&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=h&pr=a&rand=voldfj&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="mute"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=56fc734ce0c077f3&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=i&pr=a&rand=domnlhu&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="unmute"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=c5cc1cca50653878&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=j&pr=a&rand=fdnwegj&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="pause"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=783ad0ad792eb3d6&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=k&pr=a&rand=fphkyss&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="rewind"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=f68dcc8446d668e4&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=l&pr=a&rand=bppmpoc&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="resume"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=0bd6f94ae033bda2&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=m&pr=a&rand=ncoqkdo&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=aae3220f8abc4dff&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=n&pr=a&rand=kptnxaw&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=aae3220f8abc4dff&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=n&pr=a&rand=kptnxaw&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="expand"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=cc9a8bf6778ae875&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=o&pr=a&rand=meylurn&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="collapse"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=2a63fa2e9c11494b&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=p&pr=a&rand=dyqmeea&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="acceptInvitationLinear"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=a48ca1371fe05aae&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=q&pr=a&rand=cvyffts&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="close"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=fd775422f109e5a0&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=r&pr=a&rand=gjnizbr&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="skip"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=80e91ca9d1224c7e&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=s&pr=a&rand=jsqxmzk&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+							<Tracking event="progress" offset="00:00:05"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=b5804c0cac0ddbbb&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=v&pr=a&rand=kjmbrns&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough><![CDATA[https://ads.adfox.ru/166267/goLink?adfox-version=1&erid=F7NfYUJCUneLs2UFZj6j&hash=c69719fd3eadbd5b&p1=dbmji&p2=hiux&p5=sorbk&pr=a&rand=mpwnvik&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile type="video/webm" width="640" height="360" bitrate="795" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_360p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="426" height="240" bitrate="560" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_240p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="1920" height="1080" bitrate="4183" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_1080p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="854" height="480" bitrate="1472" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_480p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="256" height="144" bitrate="382" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_144p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="1280" height="720" bitrate="2701" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_720p.webm]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="256" height="144" bitrate="366" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_144p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="1920" height="1080" bitrate="6262" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_1080p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="426" height="240" bitrate="557" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_240p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="1280" height="720" bitrate="4754" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_720p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="640" height="360" bitrate="1027" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_360p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="854" height="480" bitrate="2683" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_480p.mp4]]>
+</MediaFile>
+<MediaFile type="application/x-mpegURL" width="0" height="0" bitrate="0" delivery="streaming" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5.m3u8]]>
+</MediaFile>
+							<MediaFile type="video/mp4" width="960" height="540" bitrate="600" delivery="progressive"><![CDATA[https://strm.yandex.ru/vh-adfox-converted/vod-content/554369322427816167/160e1bf3-7b60-4f93-84d6-ba4f867b81c5_169_480p.mp4]]></MediaFile>
+						</MediaFiles>
+						<CreativeExtensions>
+							<CreativeExtension type="yandex_linear_creative_info"><![CDATA[{"assets": [{"value": "Реклама", "type": "string", "required": true , "name": "sponsored", "clickable": false }, {"value": "ВГТРК", "type": "string", "required": false, "name": "domain", "clickable": false}, {"value": "Подробнее", "type": "string", "required": true, "name": "call_to_action", "clickable": true}, {"name": "feedback", "type": "image", "clickable": true, "required": false, "value": {"url": "https://yastatic.net/pcode-static/resources/68/adtune/feedback_light_dots.png", "w": 96, "h": 96}, "link": { "actions": [{"type": "adtune", "url": "https://yastatic.net/partner-code-bundles/adtune/index.html?data=%7B%22warning%22:%22%22,%20%22token%22:%22F7NfYUJCUneLs2UFZj6j%22,%20%22type%22:%22adfox%22%7D"}]}}] }]]>
+							</CreativeExtension>
+						</CreativeExtensions>																																				
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension type="skipTime2"><![CDATA[00:00]]></Extension>
+				<Extension type="linkTxt"><![CDATA[перейти на сайт рекламодателя]]></Extension>
+				<Extension type="isClickable"><![CDATA[1]]></Extension>
+				<Extension type="addClick"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=238a0a34f282e773&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=t&pr=a&rand=lihdcul&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Extension>
+				<Extension type="AdTitle"><![CDATA[{"show": 1, "domain": "ВГТРК", "socialAdvertising": false}]]></Extension>
+				<Extension type="AdTune"><![CDATA[{"show": 1, "token": "F7NfYUJCUneLs2UFZj6j", "advertiserInfo": ""}]]></Extension>
+    <Extension type="packshotSettings"><![CDATA[{"isEnabled":}]]></Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>
