@@ -90,8 +90,8 @@
 				<Extension type="linkTxt"><![CDATA[перейти на сайт рекламодателя]]></Extension>
 				<Extension type="isClickable"><![CDATA[1]]></Extension>
 				<Extension type="addClick"><![CDATA[https://ads.adfox.ru/166267/event?adfox-version=1&hash=238a0a34f282e773&lts=frqfebp&p1=dbmji&p2=hiux&p5=sorbk&pm=t&pr=a&rand=lihdcul&rqs=6Nd3l96hwWThX4totzso_R4cKQMoKRbp&sj=NSSKTu9YEpqahOtEkL7vaMQEYtGNDC0BvSeRPFPD-Yy0YfeysEGsutp2Uh5X0w%3D%3D]]></Extension>
-				<Extension type="AdTitle"><![CDATA[{"show": 1, "domain": "ВГТРК", "socialAdvertising": false}]]></Extension>
-				<Extension type="AdTune"><![CDATA[{"show": 1, "token": "F7NfYUJCUneLs2UFZj6j", "advertiserInfo": ""}]]></Extension>
+				<Extension type="AdTitle"><![CDATA[{"show": 1, "domain": "REKLAMA", "socialAdvertising": false}]]></Extension>
+				<Extension type="AdTune"><![CDATA[{"show": 1, "token": "SOSAT", "advertiserInfo": ""}]]></Extension>
     <Extension type="packshotSettings"><![CDATA[{"isEnabled":}]]></Extension>
 			</Extensions>
 		</InLine>
